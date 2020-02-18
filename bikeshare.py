@@ -24,7 +24,7 @@ def get_filters():
 
     while city not in cities:
 
-        city = str(input("Would you like to see data for Chicago, New York City, or Washington?: ").lower())
+        city = str(input('Would you like to see data for Chicago, New York City, or Washington?: ').lower())
 
     # TO DO: get user input for month (all, january, february, ... , june)
     months = ['all', 'January', 'February', 'March', 'April', 'May', 'June']
@@ -42,7 +42,7 @@ def get_filters():
 
     while day not in days:
 
-        day = int(input("Which day? Please type your response as an integer (e.g., Sunday=1): "))
+        day = int(input('Which day? Please type your response as an integer (e.g., Sunday=1): '))
 
         print('-'*40)
     return city, month, day
