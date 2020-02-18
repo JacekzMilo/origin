@@ -42,7 +42,7 @@ def get_filters():
 
     while day not in days:
 
-        day = int(input("Which day? Please type your response as an integer (e.g., Sunday=1): "))
+        day = int(input('Which day? Please type your response as an integer (e.g., Sunday=1): '))
 
         print('-'*40)
     return city, month, day
