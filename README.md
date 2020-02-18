@@ -8,7 +8,10 @@ Project 2
 It filters data form bikeshare company dataset according to users input. Shows data
 like travel duration, user info - gender, user type, most common stations
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
+bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
