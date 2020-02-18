@@ -2,11 +2,11 @@
 18-02-2020
 
 ### Project Title
-Project 2 
+Project 2
 
 ### Description
-Describe what your project is about and what it does
-
+It filters data form bikeshare company dataset according to users input. Shows data
+like travel duration, user info - gender, user type, most common stations
 ### Files used
 Include the files used
 
